@@ -23,18 +23,18 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="assets/gifs/robotics_grasp_2d3d.gif" alt="robotics-grasp-2d3d" width="100%" />
+      <img src="2-code/show/assets/gifs/robotics_grasp_2d3d.gif" alt="robotics-grasp-2d3d" width="100%" />
       <div><strong>机械臂抓取关节控制（2D/3D 联动）</strong></div>
     </td>
     <td width="50%" align="center">
-      <img src="assets/gifs/aco_path.gif" alt="aco-path" width="100%" />
+      <img src="2-code/show/assets/gifs/aco_path.gif" alt="aco-path" width="100%" />
       <div><strong>路径优化展示（保持现有结果）</strong></div>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="assets/gifs/github_cover.gif" alt="github-cover" width="960" />
+  <img src="2-code/show/assets/gifs/github_cover.gif" alt="github-cover" width="960" />
 </p>
 
 ## 结果与模块一键跳转
@@ -42,11 +42,11 @@
 ### 结果直达
 
 - 指标汇总: [docs/results/showcase_metrics.md](docs/results/showcase_metrics.md)
-- 机械臂 2D/3D 动图: [assets/gifs/robotics_grasp_2d3d.gif](assets/gifs/robotics_grasp_2d3d.gif)
-- 路径优化动图: [assets/gifs/aco_path.gif](assets/gifs/aco_path.gif)
-- 封面动图: [assets/gifs/github_cover.gif](assets/gifs/github_cover.gif)
-- Q1 收敛图: [assets/figures/q1_ga_history.png](assets/figures/q1_ga_history.png)
-- Q2 收敛图: [assets/figures/q2_ga_history.png](assets/figures/q2_ga_history.png)
+- 机械臂 2D/3D 动图: [2-code/show/assets/gifs/robotics_grasp_2d3d.gif](2-code/show/assets/gifs/robotics_grasp_2d3d.gif)
+- 路径优化动图: [2-code/show/assets/gifs/aco_path.gif](2-code/show/assets/gifs/aco_path.gif)
+- 封面动图: [2-code/show/assets/gifs/github_cover.gif](2-code/show/assets/gifs/github_cover.gif)
+- Q1 收敛图: [2-code/show/assets/figures/q1_ga_history.png](2-code/show/assets/figures/q1_ga_history.png)
+- Q2 收敛图: [2-code/show/assets/figures/q2_ga_history.png](2-code/show/assets/figures/q2_ga_history.png)
 
 ### 模块代码直达
 
