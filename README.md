@@ -26,10 +26,6 @@
       <img src="2-code/show/assets/gifs/robotics_grasp_2d3d.gif" alt="robotics-grasp-2d3d" width="100%" />
       <div><strong>机械臂抓取关节控制（2D/3D 联动）</strong></div>
     </td>
-    <td width="50%" align="center">
-      <img src="2-code/show/assets/gifs/aco_path.gif" alt="aco-path" width="100%" />
-      <div><strong>路径优化展示（保持现有结果）</strong></div>
-    </td>
   </tr>
 </table>
 
